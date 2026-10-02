@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>Oceanside_Utility_Printer.ico</file>
+    </qresource>
+</RCC>
