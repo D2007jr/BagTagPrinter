@@ -12,12 +12,11 @@ This is the first working development version of BagTagPrinter.
 
 ## Features
 
-- Simple desktop interface designed for quick employee use
+- Simple desktop interface designed for quick use
 - Bag type selection using dedicated buttons
 - Employee initials input
 - Automatic date and time generation
 - Direct printing to supported thermal printers
-- Epson thermal receipt printer support
 - Custom bag-tag formatting
 - Printer status display
 - Custom application icon
