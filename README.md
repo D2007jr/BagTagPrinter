@@ -40,7 +40,6 @@ The application uses Qt's `QPrinter`, `QPrinterInfo`, and `QPainter` functionali
 - CMake
 - MinGW
 - Qt Creator
-- Git / GitHub
 
 ## Project Structure
 
